@@ -6,11 +6,11 @@
 <br>
 - 💬 Ask me about css, MySQL, php, Javascript and more...
 <br>
-- 📫 How to reach me yorickdv@icloud.com
+- 📫 How to reach me? yorickdv@icloud.com
 <br>
 - 👨‍💻 All of my projects are available at www.yorickdv.be
 <br>
-- ⚡ Fun fact <b><i>I love me a good croissant with préparé</i></b>
+- ⚡ Fun fact: <b><i>I love me a good croissant with préparé</i></b>
 <div> <a href="https://www.linkedin.com/in/yorickdv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/yoyoplayer12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/zwabber_dnb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,7 +48,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Some stats...</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoplayer12&layout=compact&theme=Dark" alt=yoyoplayer12 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yoyoplayer12&show_icons=true&locale=en&theme=Dark" alt="yoyoplayer12" /></p>
