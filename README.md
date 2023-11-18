@@ -8,7 +8,7 @@
 <br>
 - 📫 How to reach me yorickdv@icloud.com
 <br>
-- 👨‍💻 All of my projects are available at **www.yorickdv.be**
+- 👨‍💻 All of my projects are available at www.yorickdv.be
 <br>
 - ⚡ Fun fact <b><i>I love me a good croissant with préparé</i></b>
 <div> <a href="https://www.linkedin.com/in/yorickdv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
