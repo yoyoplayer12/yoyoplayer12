@@ -49,8 +49,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoplayer12&layout=compact&theme=" alt=yoyoplayer12 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoplayer12&layout=compact&theme=Dark" alt=yoyoplayer12 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yoyoplayer12&show_icons=true&locale=en&theme=" alt="yoyoplayer12" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yoyoplayer12&show_icons=true&locale=en&theme=Dark" alt="yoyoplayer12" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoplayer12&theme=" alt="yoyoplayer12" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoplayer12&theme=Dark" alt="yoyoplayer12" /></p>
