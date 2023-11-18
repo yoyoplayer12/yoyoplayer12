@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yorick</h1>
-<h3 align="center">I'm a student Digital Experience Design at Thomas More! 🎓</h3>
+<h3 align="center">I'm a Digital Experience Design student at Thomas More! 🎓</h3>
 - 🔭 I’m currently working on [PulsAid](https://github.com/yoyoplayer12/pulsaid)
 - 🌱 I’m currently learning **Node.js, Vue.js, **
 - 💬 Ask me about **css, MySQL, php, Javascript and more...**
