@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yorick</h1>
 <h3 align="center">I'm a Digital Experience Design student at Thomas More! 🎓</h3>
-- 🔭 I’m currently working on [PulsAid](https://github.com/yoyoplayer12/pulsaid)
+- 🔭 I’m currently working on PulsAid, (https://github.com/yoyoplayer12/pulsaid)
 <br>
-- 🌱 I’m currently learning **Node.js, Vue.js, **
+- 🌱 I’m currently learning Node.js and Vue.js
 <br>
-- 💬 Ask me about **css, MySQL, php, Javascript and more...**
+- 💬 Ask me about css, MySQL, php, Javascript and more...
 <br>
-- 📫 How to reach me **yorickdv@icloud.com**
+- 📫 How to reach me yorickdv@icloud.com
 <br>
 - 👨‍💻 All of my projects are available at **www.yorickdv.be**
 <br>
