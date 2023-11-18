@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at **www.yorickdv.be**
 <br>
 - ⚡ Fun fact *I love me a good croissant with préparé*
-
+<br>
 <div> <a href="https://www.linkedin.com/in/yorickdv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/yoyoplayer12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/zwabber_dnb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
