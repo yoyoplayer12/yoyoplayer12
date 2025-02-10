@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yorick</h1>
-<h3 align="center">I'm a Backend Drupal Developer at <a href="https://www.iodigital.com/en"></a> 👾</h3>
+<h3 align="center">I'm a Backend Drupal Developer at <a href="https://www.iodigital.com/en">iO Digital</a> 👾</h3>
 <br>
 - 💬 Ask me about css, MySQL, php, Javascript, WordPress, Drupal and more...
 <br>
